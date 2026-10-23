@@ -1,0 +1,3 @@
+interface:
+  display_name: "项目简历助手"
+  short_description: "分析项目代码与个人贡献，提炼有证据支撑的亮点并生成岗位适配的简历项目经历"
